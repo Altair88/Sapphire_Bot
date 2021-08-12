@@ -10,5 +10,5 @@ bot = commands.Bot(command_prefix='/')
 async def on_ready():
     print(">> Bot is online <<")
 
-bot.run("ODc1NDk1NjQxNjAwNjMwODQ1.YRWW2g.OrrAJguFIXBkjo4F6mCSqzTKlpQ")
+bot.run("")
 #bot.run("Token")
